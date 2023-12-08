@@ -1,0 +1,12 @@
+C:\Users\huyl1\Source\Repos\fire-detect\ConsoleApp\SharedComponent\bin\Debug\net5.0\SharedComponent.deps.json
+C:\Users\huyl1\Source\Repos\fire-detect\ConsoleApp\SharedComponent\bin\Debug\net5.0\SharedComponent.dll
+C:\Users\huyl1\Source\Repos\fire-detect\ConsoleApp\SharedComponent\bin\Debug\net5.0\ref\SharedComponent.dll
+C:\Users\huyl1\Source\Repos\fire-detect\ConsoleApp\SharedComponent\bin\Debug\net5.0\SharedComponent.pdb
+C:\Users\huyl1\Source\Repos\fire-detect\ConsoleApp\SharedComponent\obj\Debug\net5.0\SharedComponent.csproj.AssemblyReference.cache
+C:\Users\huyl1\Source\Repos\fire-detect\ConsoleApp\SharedComponent\obj\Debug\net5.0\SharedComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huyl1\Source\Repos\fire-detect\ConsoleApp\SharedComponent\obj\Debug\net5.0\SharedComponent.AssemblyInfoInputs.cache
+C:\Users\huyl1\Source\Repos\fire-detect\ConsoleApp\SharedComponent\obj\Debug\net5.0\SharedComponent.AssemblyInfo.cs
+C:\Users\huyl1\Source\Repos\fire-detect\ConsoleApp\SharedComponent\obj\Debug\net5.0\SharedComponent.csproj.CoreCompileInputs.cache
+C:\Users\huyl1\Source\Repos\fire-detect\ConsoleApp\SharedComponent\obj\Debug\net5.0\SharedComponent.dll
+C:\Users\huyl1\Source\Repos\fire-detect\ConsoleApp\SharedComponent\obj\Debug\net5.0\ref\SharedComponent.dll
+C:\Users\huyl1\Source\Repos\fire-detect\ConsoleApp\SharedComponent\obj\Debug\net5.0\SharedComponent.pdb
